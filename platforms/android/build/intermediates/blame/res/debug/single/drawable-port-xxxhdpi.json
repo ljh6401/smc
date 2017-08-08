@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Program Files\\Git\\smc\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi\\screen.png",
+        "source": "C:\\Program Files\\Git\\smc\\platforms\\android\\res\\drawable-port-xxxhdpi\\screen.png"
+    },
+    {
         "merged": "C:\\Users\\7MATER\\smc\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-port-xxxhdpi\\screen.png",
         "source": "C:\\Users\\7MATER\\smc\\platforms\\android\\res\\drawable-port-xxxhdpi\\screen.png"
     }

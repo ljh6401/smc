@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Program Files\\Git\\smc\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "C:\\Program Files\\Git\\smc\\platforms\\android\\res\\xml\\config.xml"
+    },
+    {
         "merged": "C:\\Users\\7MATER\\smc\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
         "source": "C:\\Users\\7MATER\\smc\\platforms\\android\\res\\xml\\config.xml"
     }
